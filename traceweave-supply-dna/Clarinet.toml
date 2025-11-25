@@ -7,8 +7,8 @@ cache_dir = '.\.cache'
 requirements = []
 [contracts.traceweave-supply-dna]
 path = 'contracts/traceweave-supply-dna.clar'
-clarity_version = 3
-epoch = 3.0
+clarity_version = 2
+epoch = 2.4
 [repl.analysis]
 passes = ['check_checker']
 
